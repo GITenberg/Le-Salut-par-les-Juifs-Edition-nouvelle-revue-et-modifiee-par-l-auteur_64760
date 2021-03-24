@@ -1,0 +1,28 @@
+_repo: Le-Salut-par-les-Juifs-Edition-nouvelle-revue-et-modifiee-par-l-auteur_64760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloy, Léon
+    alias: Bloy, Leon
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '37756'
+    url: http://www.gutenberg.org/2009/agents/37756
+    wikipedia:
+    - http://en.wikipedia.org/wiki/L%C3%A9on_Bloy
+    - http://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
+description: ''
+gutenberg_issued: '2021-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64760'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le Salut par les Juifs
+
+  Édition nouvelle revue et modifiée par l''auteur'
+url: http://www.gutenberg.org/ebooks/64760
