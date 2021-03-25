@@ -1,5 +1,8 @@
 _repo: Le-Salut-par-les-Juifs-Edition-nouvelle-revue-et-modifiee-par-l-auteur_64760
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64760-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloy, Léon
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/L%C3%A9on_Bloy
     - http://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64760#Le-Salut-par-les-Juifs-Edition-nouvelle-revue-et-modifiee-par-l-auteur
 gutenberg_issued: '2021-03-08'
 gutenberg_type: Text
 identifiers:
